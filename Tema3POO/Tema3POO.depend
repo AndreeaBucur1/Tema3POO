@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1590318539 source:c:\users\andre\onedrive\desktop\tema3poo\main.cpp
+	<iostream>
+	"Proprietar.h"
+	"Farmacie.h"
+	"GestionareFarmacii.h"
+	"FarmacieOnline.h"
+	"FarmacieCompleta.h"
+
+1590265950 source:c:\users\andre\onedrive\desktop\tema3poo\src\farmacie.cpp
+	"Farmacie.h"
+	<bits/stdc++.h>
+	"MyExceptions.h"
+
+1590258158 c:\users\andre\onedrive\desktop\tema3poo\include\farmacie.h
+	<iostream>
+	<Proprietar.h>
+
+1590316275 c:\users\andre\onedrive\desktop\tema3poo\include\proprietar.h
+	<iostream>
+	<bits/stdc++.h>
+
+1589737734 source:c:\users\andre\onedrive\desktop\tema3poo\src\gestionarefarmacii.cpp
+
+1590316720 c:\users\andre\onedrive\desktop\tema3poo\include\gestionarefarmacii.h
+	"Farmacie.h"
+	"Proprietar.h"
+	<bits/stdc++.h>
+
+1589737336 source:c:\users\andre\onedrive\desktop\tema3poo\src\myexceptions.cpp
+
+1590316332 source:c:\users\andre\onedrive\desktop\tema3poo\src\proprietar.cpp
+	"Proprietar.h"
+	<iostream>
+	"MyExceptions.h"
+
+1589737334 c:\users\andre\onedrive\desktop\tema3poo\include\myexceptions.h
+	<exception>
+
+1590265974 source:c:\users\andre\onedrive\desktop\tema3poo\src\farmacieonline.cpp
+	"FarmacieOnline.h"
+
+1590258158 c:\users\andre\onedrive\desktop\tema3poo\include\farmacieonline.h
+	<bits/stdc++.h>
+	"Proprietar.h"
+
+1589834461 source:c:\users\andre\onedrive\desktop\tema3poo\src\farmaciecompleta.cpp
+	"FarmacieCompleta.h"
+
+1589884373 c:\users\andre\onedrive\desktop\tema3poo\include\farmaciecompleta.h
+	"Farmacie.h"
+	"FarmacieOnline.h"
+
